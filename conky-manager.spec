@@ -1,4 +1,4 @@
-%global _debugsource_packages  %{nil}
+%global _debugsource_packages 0
 %global build_no ~136~ubuntu16.04.1
 %global __brp_check_rpaths %{nil}
 
