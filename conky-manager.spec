@@ -39,6 +39,7 @@ running Conky at startup.
 sed -i 's/valac/valac -g/g' src/makefile
 
 %build
+%before_configure
 %make_build
 
 %install
