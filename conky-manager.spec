@@ -1,3 +1,8 @@
+#
+#NOTE: The upstreames archived this project.
+#      Use conmy-manager2 instead.
+#
+
 %global debug_package %{nil}
 %global build_no ~136~ubuntu16.04.1
 %global __brp_check_rpaths %{nil}
