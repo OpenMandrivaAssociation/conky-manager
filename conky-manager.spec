@@ -15,6 +15,7 @@ Group:		Monitoring
 License:	GPLv3+
 Url:		https://launchpad.net/conky-manager
 Source0:	https://launchpad.net/~teejee2008/+archive/ppa/+files/%{name}_%{version}%{build_no}.tar.xz
+BuildRequires:	make
 BuildRequires:	pkgconfig(gee-0.8)
 BuildRequires:	pkgconfig(gtk+-3.0)
 BuildRequires:	pkgconfig(json-glib-1.0)
